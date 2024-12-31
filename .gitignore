@@ -1,0 +1,8 @@
+processed_datasets/
+raw_datasets/
+garfield/
+__pycache__/
+traincnn.py
+train.py
+discriminator.pth
+generator.pth
